@@ -39,7 +39,9 @@
     "gulp": "^3.8.10"
   },
   "dependencies": {
-    "aes": "^0.1.0",
+    "aes": "^0.1.0"
+  },
+  "peerDependencies": {
     "bitcore-lib": "^0.14.0"
   }
 }
